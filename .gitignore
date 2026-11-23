@@ -1,0 +1,20 @@
+# Java / NetBeans (Ant)
+build/
+dist/
+nbproject/private/
+*.class
+*.jar
+*.war
+
+# Comprimidos de entrega (se suben a propósito en este repositorio)
+# *.zip
+# *.rar
+
+# Editores e IDEs
+.idea/
+.vscode/
+*.iml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
